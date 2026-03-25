@@ -43,6 +43,4 @@ You cannot share or redistribute NOTOUCH.
 including for commercial use.    
 >
 >Paid components made by Noto cannot be shared or redistributed.
-  
-Paid components made by Noto cannot be shared or redistributed.
 

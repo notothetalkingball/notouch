@@ -36,11 +36,13 @@ feel free to share them on the [Noto The Talking Ball Discord server](https://di
 
 
 ## license
-NOTOUCH can be used in commercial projects.  
-You cannot share or redistribute NOTOUCH.  
-  
-NOTOUCH components can be created, modified, and shared,  
-including for commercial use.  
+>NOTOUCH can be used in commercial projects.  
+You cannot share or redistribute NOTOUCH.    
+> 
+> NOTOUCH components can be created, modified, and shared,  
+including for commercial use.    
+>
+>Paid components made by Noto cannot be shared or redistributed.
   
 Paid components made by Noto cannot be shared or redistributed.
 

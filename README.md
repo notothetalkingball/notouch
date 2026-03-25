@@ -1,12 +1,12 @@
 # Welcome to NOTOUCH!
 
 Hi! Welcome to NOTOUCH!  
-NOTOUCH is a UI interface made by Noto 💭  
+**NOTOUCH is a UI interface for TouchDesigner** made by Noto 💭  
 It lets you quickly and easily create your own UI layout to control your TouchDesigner projects.  
 You can use it with a mouse, but it’s even easier if you use a touchscreen.  
 
-NOTOUCH isn’t about “don’t touch” it’s just NOTO + TOUCH  
-So feel free to touch it as much as you want!
+*NOTOUCH isn’t about “don’t touch” it’s just NOTO + TOUCH  
+So feel free to touch it as much as you want!*
 
 ## Download
 
